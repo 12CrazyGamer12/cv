@@ -1,0 +1,48 @@
+body{
+    background-color: #161616;
+}
+h1{
+    color: white;
+}
+h3{
+    color: white;
+}
+p{
+    color: white;
+}
+li{
+    color: white;
+}
+
+
+a:link{
+    color: #00f2ff;
+}  
+a:visited{
+    color: #00f2ff;
+}  
+a:hover{
+    color: #00a4ad;
+}  
+a:active{
+    color: #00f2ff;
+} 
+
+
+.local_links a:link{
+    color: #ffffff;
+}  
+.local_links a:visited{
+    color: #ffffff;
+}  
+.local_links a:hover{
+    color: #979797;
+}  
+.local_links a:active{
+    color: #ffffff;
+}
+
+
+  a.imglink:hover img{
+    opacity:            0.5;
+  }
